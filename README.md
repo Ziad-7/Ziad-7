@@ -73,14 +73,6 @@ Embedded AVR system implementing real-time clock, alarm, stopwatch, and countdow
 
 ---
 
-## GitHub Stats
-
-![Ziad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziad-7\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-7\&layout=compact)
-
----
-
 ## Connect With Me
 
 * LinkedIn: [https://www.linkedin.com/in/ziadahmedrabie/](https://www.linkedin.com/in/ziadahmedrabie/)
