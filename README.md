@@ -60,10 +60,6 @@ Machine learning system for financial portfolio analysis, risk modeling, and int
 
 Graph-based social platform with network visualization, recommendation logic, and shortest-path analysis.
 
-### ⚙️ AVR Multi-Function Digital Clock
-
-Embedded AVR system implementing real-time clock, alarm, stopwatch, and countdown timer functionalities.
-
 ---
 
 ## Competitive Programming
